@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://x.com/Sayandip05" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&color=000000&logoColor=white&style=for-the-badge" height="25" alt="X logo" />
   </a>
 </div>
 
