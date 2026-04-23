@@ -32,7 +32,13 @@
 
 ###
 
-<p align="left">I’m an applied AI/ML engineer focused on building production-ready systems.<br><br>🔭 I work across ML, Deep Learning, and MLOps, with a strong focus on LLM-based systems.<br>📚 Currently deepening my work on RAG pipelines and AI agents for real-world use cases.<br>⚡ In my free time, I experiment with new tools, improve system reliability, and turn ideas into working prototypes.</p>
+<p align="left">
+I build production-grade backend systems and agentic AI applications for real-world problems.<br><br>
+
+🔭 I specialize in FastAPI, Django, and LangGraph-based AI agents designed for production environments.<br>
+🧠 Currently focused on building systems that integrate backend engineering with LLM capabilities.<br>
+⚡ Every project I build targets real-world problems — deployed, well-documented, and demo-ready.
+</p>
 
 ###
 
@@ -64,8 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
